@@ -43,7 +43,7 @@ Biraz haklı da sayılsanız eksikler var.😅
 **Benim size vaadim size istediğiniz OST'leri (Offical Soundtrack) bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!**
 
 # Özellikler
-**Playlist Özelliği:**İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
+**Playlist Özelliği:** İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
 
 **Akıllı karışık çalma:** Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır.
 
