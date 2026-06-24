@@ -20,7 +20,7 @@ You might have a point, but there are some shortcomings. 😅
 # Features
 **Playlist Feature:** You can create as many playlists as you want and add as many songs as you want!
 
-**Smart Shuffle:** Our shuffle algorithm ensures that when you listen to a song in a playlist, the same song won’t play over and over again. Once all the songs in the playlist have been played, the algorithm resets.
+**Smart Shuffle:** Our shuffle algorithm ensures that when you listen to a song in a playlist, the same song won’t play over and over again. Once all the songs in the playlist have been played, the algorithm resets. This freature can be close.
 
 **Automatic Startup:** Depending on the user’s preference (which is also my recommendation), the app can start automatically in the background without putting any strain on your computer—you might not even notice the difference.
 
@@ -49,7 +49,7 @@ Biraz haklı da sayılsanız eksikler var.😅
 # Özellikler
 **Playlist Özelliği:** İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
 
-**Akıllı karışık çalma:** Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır.
+**Akıllı karışık çalma:** Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır. İsteğe bağlı bu özellik kapatılabilir.
 
 **Kendiliğinden başlatma:** Kullanıcı isteğine bağlı( ki benim de önerimdir.) uygulama kendini arka planda başlatabilir ve bilgisayarı hiç yormaz, belki farkı hissetmeyebilirsiniz bile.
 
