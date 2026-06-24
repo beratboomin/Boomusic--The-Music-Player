@@ -35,7 +35,7 @@ You might have a point, but there are some shortcomings. 😅
 
 Öncelikle merhaba ben Berat ve bu projem ise "Boomusic". 15 Yaşındayım ve Türkiye'de yaşıyorum. Bu sektöre gireli 1 sene bile olmadı ama gelişmede kararlıyım. Bu projenin çıkış hikayesi şöyle başladı:
 
-bilgisayarda canım sıkılırken şarkı açma isteği uyandı ancak bu normal olanlardan değildi, bir iş yaparken oyunlarda çok gördüğümüz arka plan müziklerini gerçek hayata getirmek istedim. İlk başta bilgisayarda çok yer kaplamayan sadece şarkı durduran-açan basit bir programla başladım, şimdi ise bunu gerçek bir müzik oynatıcısına çevirme zamanı geldiğini düşünüyorum. Tnamamen yapay zeka araçlarıyla proglamladığım ve tasarladığım "Boomusic" şuanda yapım aşamasında!
+bilgisayarda canım sıkılırken şarkı açma isteği uyandı ancak bu normal olanlardan değildi, bir iş yaparken oyunlarda çok gördüğümüz arka plan müziklerini gerçek hayata getirmek istedim. İlk başta bilgisayarda çok yer kaplamayan sadece şarkı durduran-açan basit bir programla başladım, şimdi ise bunu gerçek bir müzik oynatıcısına çevirme zamanı geldiğini düşünüyorum. Tamamen yapay zeka araçlarıyla proglamladığım ve tasarladığım "Boomusic" şuanda yapım aşamasında!
 
 # Farkımız Ne?
 Çok belli ki farkımız internete ihtiyaç duyulmadığı fakat akıllara şu soru gelebilir:
