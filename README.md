@@ -15,9 +15,13 @@ It’s clear that what sets us apart is that we don’t require an internet conn
 
 You might have a point, but there are some shortcomings. 😅
 
-**My promise to you is that you’ll be able to play the OSTs (Official Soundtracks) you want without overloading your computer. Plus, we offer virtually everything that popular music players charge you for—all open-source and free!**
+**My promise to you is that you’ll be able to play the OSTs (Official Soundtracks) and Music you want without overloading your computer. Plus, we offer virtually everything that popular music players charge you for—all open-source and free!**
 
 # Features
+**Song Recommendations Mix:** When this feature is enabled, the program attempts to find songs that go well together and begins playing them. The purpose of this feature is to enhance your listening experience.
+
+**Recommended OST Packages:** If you enable this feature during the optional setup, the program will download the built-in OST and provide you with recommendations.
+
 **Playlist Feature:** You can create as many playlists as you want and add as many songs as you want!
 
 **Smart Shuffle:** Our shuffle algorithm ensures that when you listen to a song in a playlist, the same song won’t play over and over again. Once all the songs in the playlist have been played, the algorithm resets. This freature can be close.
@@ -44,9 +48,13 @@ bilgisayarda canım sıkılırken şarkı açma isteği uyandı ancak bu normal 
 
 Biraz haklı da sayılsanız eksikler var.😅
 
-**Benim vaadim size istediğiniz OST'leri (Offical Soundtrack) bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!**
+**Benim vaadim size istediğiniz OST'leri (Offical Soundtrack) ve Müzikleri bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!**
 
 # Özellikler
+**Şarkı Önerileri Mixleme:** Özellik açıldığında program birbirine uyumlu şarkı bulmaya çalışır ve çalmaya başlar. Özelliğin amacı dinleme konforudur.
+
+**Öneri OST Paketleri:** Tercihe bağlı kurulumda iken bu özelliği açarsanız programa gömülü OST indirir ve size önermelerde bulunur.
+
 **Playlist Özelliği:** İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
 
 **Akıllı karışık çalma:** Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır. İsteğe bağlı bu özellik kapatılabilir.
